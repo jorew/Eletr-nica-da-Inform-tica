@@ -5,7 +5,10 @@
 - Semestre 2026.2.
 
 ## 10/08/2026
-
+- Diodo;
+- Eletricidade Básica/Requerida para a disciplina;
+- Utilização do simulador Proteus;
+- Intuito para primeira prática: Acender um Led.
 
 
 
