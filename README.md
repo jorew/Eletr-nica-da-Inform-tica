@@ -1,2 +1,2 @@
 # Eletr-nica-da-Inform-tica
-Repositório de aulas da disciplina Eletrônica da Informática.
+Repositório das aulas da disciplina Eletrônica da Informática.
