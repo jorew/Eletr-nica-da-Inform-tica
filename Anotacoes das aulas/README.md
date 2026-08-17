@@ -4,7 +4,7 @@
 - Turma P5 de informática; 
 - Semestre 2026.2.
 
-## 10/08/2026
+## 10/08/2026:
 - Diodo;
 - Eletricidade Básica/Requerida para a disciplina;
 - Utilização do simulador Proteus;
@@ -88,7 +88,40 @@
 - Domínio do mercado da Microsoft.
 ---
 
-### 
+### 17/08/2026:
+
+- Sistema Binário (recap):
+> Bases montadas com 0's e 1's que se calcula multiplicando as bases por potências de 2 que variam de acordo com a posição começa da direita (pos: 0) e se desloca para a esquerda (fim). >
+
+- Barramento de endereços:
+> Geralmente 8 bits, é um conjunto de linhas de comunicação que transporta o endereço físico de posições de memória ou de dispositivos de entrada e saída. >
+
+- Octal -> Hexadecimal (16 bits):
+> Octal: 0 a 7 >
+> Hexadecimal: 0 a 9, A, B, C, D, E, F. Maneira mais simples de cálculo do binário, melhor controle da informação. >
+
+> "Zera e acrescenta 1 no próximo dígito." -> quando se acaba os dígitos. >
+> Cada dígito em hexadecimal é representado por 4 bits no binário. >
+
+#### Funções Lógicas:
+##### AND: 
+> Álgebra Booleana -> Binário >
+
+- AND: representada por "." A AND B;
+- Constituída de diodos, transistores;
+- Tabela VERDADE:
+> Define completamente a função: descreve as possibilidades da função; > 
+
+##### OR:
+##### XOR, NOT, NAND, XNOR ...
+> CADERNO >
+
+
+#### Proteus (ISIS):
+
+
+---
+
 
 
 
