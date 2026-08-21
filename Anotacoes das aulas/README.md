@@ -118,11 +118,24 @@
 
 
 #### Proteus (ISIS):
+##### Bibliotecas para a utilização:
+- 74LS00
+- 74LS01
+- 74LS02
+- 74LS04
+- 74LS08
+- 74LS10
+- 74LS11
+- 74LS27
+- 74LS32
+- 74LS86
+- LOGICPROBE
+- LOGICSTATE
 
 
 ---
 
-
+### 21/08/2026:
 
 
 
